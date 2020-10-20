@@ -87,7 +87,7 @@ let dogs = [
 ]
 
 
-//6. 
+//6.  What your solution should look like after solving problem six
 let topDogs = [{
     redAge: 26,
     redClass: "red",
@@ -109,7 +109,7 @@ let topDogs = [{
     greenSpecies: "dog",
     greenVotes: 201,
     greenWeight: 101,
-}]
+}]  
 
 
 
